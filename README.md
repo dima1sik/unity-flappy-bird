@@ -1,4 +1,4 @@
-# Flappy Bird Unity Clone
+﻿# Flappy Bird Unity Clone
 
 Flappy Bird Unity Clone is a 2D Unity game prototype inspired by the classic Flappy Bird gameplay loop.
 
@@ -38,10 +38,7 @@ The project demonstrates simple arcade-game mechanics in Unity: player movement,
 4. Open a scene from `Assets/`.
 5. Press Play in the Unity Editor.
 
-## Status
-
-Prototype / learning project.
-
 ## Notes
 
 This project is focused on recreating a simple 2D arcade gameplay loop in Unity.
+
